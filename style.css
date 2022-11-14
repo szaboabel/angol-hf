@@ -1,0 +1,21 @@
+#tartalom {
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: white;
+    
+}
+body {
+    background-image: url(kep1.gif);
+    display: flex;
+}
+#cim {
+   text-align: center; 
+}
+p {
+    font-size: large;
+}
+img {
+    width: 700px;
+    height: 500px;
+    float: right;
+}
